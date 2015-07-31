@@ -1,1 +1,3 @@
-# skipfish-pp
+# skipfish
+
+forked copy of skipfish
